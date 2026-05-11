@@ -1,7 +1,0 @@
-{
-  "name": "my-mono",
-  "private": true,
-  "workspaces": ["apps/*", "packages/*"],
-  "devDependencies": { "turbo": "^2.0.0" },
-  "packageManager": "pnpm@9.0.0"
-}
