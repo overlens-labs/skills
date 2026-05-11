@@ -1,0 +1,5 @@
+{
+  "name": "legacy-app",
+  "private": true,
+  "dependencies": { "next": "14.2.3", "react": "18.3.1" }
+}
